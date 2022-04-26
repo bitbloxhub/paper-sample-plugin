@@ -1,0 +1,18 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+bin
+
+# Compiled class file
+*.class
+
+# Log Files
+*.log
+
+# Package Files
+*.jar
+
+# Server testing
+server_test/

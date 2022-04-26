@@ -1,0 +1,4 @@
+main: "paper_sample_plugin.PluginEntry"
+version: "1.0"
+api-version: "1.18"
+name: "paper-sample-plugin"
